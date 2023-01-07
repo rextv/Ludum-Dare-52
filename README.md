@@ -1,0 +1,2 @@
+# Ludum-Dare-52
+​You have 5 farmers for workers. Upgrade your farm with the money your farm gets you. The higher the upgrade level for the workers, the more they harvest so therefore leading to making more money. Level up and show your friends that you are better than them. This game saves your money and farmer levels for next time you play. Please consider donating to us on itch io but if not you can play for fr
